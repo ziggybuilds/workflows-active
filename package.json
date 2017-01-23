@@ -9,8 +9,11 @@
   "author": "Ray Villalobos",
   "devDependencies": {
     "gulp": "^3.6.2",
-    "gulp-util": "^2.2.14",
+    "gulp-browserify": "^0.5.1",
     "gulp-coffee": "^1.4.3",
-    "gulp-concat": "^2.2.0"
+    "gulp-concat": "^2.2.0",
+    "gulp-util": "^2.2.14",
+    "jquery": "^3.1.1",
+    "mustache": "^2.3.0"
   }
 }
