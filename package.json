@@ -1,0 +1,16 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/planetoftheweb/workflows.git"
+  },
+  "author": "Ray Villalobos",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-util": "^2.2.14",
+    "gulp-coffee": "^1.4.3",
+    "gulp-concat": "^2.2.0"
+  }
+}
